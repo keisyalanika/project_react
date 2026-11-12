@@ -44,6 +44,9 @@ const KeisyaProfile = () => {
                 </div>
                 <h2 className="text-3xl font-bold text-gray-900 mt-6 mb-1">Keisya Lanika</h2>
                 <p className="text-blue-600 font-semibold text-xl">UI/UX Designer</p>
+                <span className="inline-block mt-3 px-3 py-1 bg-green-100 text-green-800 text-xs font-semibold rounded-full border border-green-200">
+                  ● Open to Work
+                </span>
             </div>
 
             {/* Quick Info */}
