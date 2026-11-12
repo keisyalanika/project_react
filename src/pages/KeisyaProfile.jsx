@@ -162,6 +162,15 @@ const KeisyaProfile = () => {
           </div>
         </div>
       </div>
+
+      {/* Footer */}
+      <footer className="bg-white border-t mt-8">
+        <div className="max-w-6xl mx-auto px-6 py-6 text-center">
+          <p className="text-sm text-gray-500">
+            © {new Date().getFullYear()} Keisya Lanika • Dibuat dengan React &amp; Tailwind CSS
+          </p>
+        </div>
+      </footer>
     </div>
   );
 };
